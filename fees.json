@@ -1,0 +1,5 @@
+{
+  "meesho":   { "commissionPercent": 0,  "gstPercent": 18, "shippingSlab": { "0-500": 65, "500-1000": 95, "1000+": 130 }, "lastUpdated": "2025-01-01" },
+  "amazon":   { "commissionPercent": 15, "gstPercent": 18, "closingFee": 20, "shippingSlab": { "0-500": 50, "500-1000": 80, "1000+": 120 }, "lastUpdated": "2025-01-01" },
+  "flipkart": { "commissionPercent": 12, "gstPercent": 18, "closingFee": 15, "shippingSlab": { "0-500": 55, "500-1000": 85, "1000+": 125 }, "lastUpdated": "2025-01-01" }
+}
